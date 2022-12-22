@@ -1,0 +1,17 @@
+Отличия:
+Наличие hometask.txt и небольшие различия в README (в demo нет 'with nice buttons on his jacket (buttons branch)')
+
+Коммиты:
+Количество - 11
+Комментарии:
+1) init
+2) heat added
+3) boots
+4) README added
+5) dots
+6) fix readme
+7) Merge remote-tracking branch 'origin/boots' into boots_buttons
+8) Merge remote-tracking branch 'origin/buttons' into boots_buttons
+9) Merge remote-tracking branch 'upstream/hat'
+10) hometask.txt added
+11) hometask.txt edited
